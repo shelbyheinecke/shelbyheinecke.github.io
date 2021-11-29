@@ -2,7 +2,7 @@
 layout: page
 permalink: /chipotle/
 title: chipotle 🐈
-description: My cat is named Chipotle! She's the best 😊.
+description: This is my cat, Chipotle 😊.
 nav: true
 ---
 
