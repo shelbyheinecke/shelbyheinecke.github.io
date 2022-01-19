@@ -7,7 +7,7 @@
     {% if site.data.venues[entry.abbr] %}
     <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
     {% else %}
-      {% if entry.abbr == "In Preparation" %}
+      {% if entry.abbr == "In Preparation"%}
         <abbr class="badge badge-light">{{entry.abbr}}</abbr>
       {% else %}
         {% if entry.abbr == "Thesis" %}
