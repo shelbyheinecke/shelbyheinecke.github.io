@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 ---
 <b>Introduction</b> <br>
 
-Hi, I'm Shelby! I'm a Research Scientist 👩🏽‍🔬 at [Salesforce Research](http://einstein.ai){:target="\_blank"} focusing on AI research and productionizing AI models. 
+Hi, I'm Shelby! I'm a Senior Research Scientist 👩🏽‍🔬 at [Salesforce Research](http://einstein.ai){:target="\_blank"} developing new AI methods for research and product.
 
 <b>Research Interests</b><br>
 
