@@ -106,7 +106,7 @@ a, table.table a {
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
       font-weight: bolder;
-      color: var(--global-theme-color);
+      color: var(--global-text-color);
       &:hover {
         color: var(--global-hover-color);
       }
@@ -122,7 +122,7 @@ a, table.table a {
       }
       &:hover {
         i::before {
-          color: var(--global-theme-color);
+          color: var(--global-hover-color);
         }
       }
     }
@@ -386,7 +386,7 @@ footer.sticky-bottom {
         margin-bottom: 0.5rem;
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
+          background-color: #{$brand-light-blue-color};
           padding-left: 1rem;
           padding-right: 1rem;
           a {
@@ -426,8 +426,8 @@ footer.sticky-bottom {
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           &:hover {
-            color: var(--global-theme-color);
-            border-color: var(--global-theme-color);
+            color: var(--global-hover-color);
+            border-color: var(--global-hover-color);
           }
         }
       }
